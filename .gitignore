@@ -102,6 +102,7 @@ ENV/
 
 .github/**
 
+# vs code files
 .vscode
 .vs
 .vscode/settings.json
@@ -115,3 +116,6 @@ ENV/
 
 # Built Visual Studio Code Extensions
 *.vsix
+
+# Flowers dataset
+flowers
