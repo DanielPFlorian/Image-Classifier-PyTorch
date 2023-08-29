@@ -119,3 +119,7 @@ ENV/
 
 # Flowers dataset
 flowers
+
+# Model checkpoints
+inference_model.pth
+model_best_val_accuracy.pth
