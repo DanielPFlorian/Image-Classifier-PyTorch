@@ -123,3 +123,4 @@ flowers
 # Model checkpoints
 inference_model.pth
 model_best_val_accuracy.pth
+exp_model_best_val_accuracy.pth
