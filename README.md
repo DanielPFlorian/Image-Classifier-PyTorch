@@ -1,7 +1,7 @@
 # Image-Classifier-PyTorch
 [PyTorch](https://pytorch.org/) implementation of a Deep Neural Network image classifier to predict 102 species of flowers.
 
-Check out the model demo [here](https://huggingface.co/spaces/DanielPFlorian/Flower-Image-Classifier-PyTorch) on Hugging Face.
+Check out the model demo [here](https://huggingface.co/spaces/DanielPFlorian/Flower-Image-Classifier) on Hugging Face.
 
 Just upload an image of a flower and hit "Submit".
 
