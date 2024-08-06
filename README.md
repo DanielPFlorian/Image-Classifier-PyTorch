@@ -34,3 +34,5 @@ A technique to achieve even higher accuracy than just training the model's class
 - Hyperparameter Optimization
 - Overfitting prevention using Dropout
 - Image Recognition Inference using a deep learning neural network trained Model
+
+![Machu Picchu](https://github.com/user-attachments/assets/044ccdf6-d978-4e44-bea8-451419c2fcde)
